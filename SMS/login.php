@@ -143,7 +143,7 @@
 								</form>
 							</div>
 							<br/>
-							<p class="footer-text text-center">My11Student<span style="color: #AA3339; font-weight: bold">School Management System</span> </p>
+							<p class="footer-text text-center">My11Student<span style="color: #AA3339; font-weight: bold">student Management System</span> </p>
 						</div>
 					</div>
 				</div>
